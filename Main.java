@@ -3,7 +3,7 @@ package bridgelabzHashMap;
 public class Main {
     public static void main(String[] args) {
 
-        String paragraph = "To be or not to be";
+        String paragraph = "A cat is sleeping under the bed";
 
 
         String[] splitArray = paragraph.split(" ");
